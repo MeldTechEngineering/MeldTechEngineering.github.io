@@ -2,7 +2,7 @@
 title: "Detailed Cost Estimation"
 date: 2022-06-04
 featured: true
-weight: 1
+weight: 5
 ---
 
 ** Short Description here. **
