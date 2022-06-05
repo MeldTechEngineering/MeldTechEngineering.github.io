@@ -4,11 +4,4 @@ layout: contact
 description: Contact
 ---
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+We are always happy to hear from you. Send us an email or give us a call, we'll be happy to help you.
