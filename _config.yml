@@ -14,7 +14,7 @@ collections:
   services:
     output: true
   team:
-    output: true
+    output: False
 
 defaults:
   - scope:
