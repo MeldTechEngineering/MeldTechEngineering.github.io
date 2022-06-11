@@ -5,9 +5,6 @@ featured: true
 weight: 5
 ---
 
-** Short Description here. **
-
-
 ## our Expertise
 
 1. Pressure Vessel Costing
