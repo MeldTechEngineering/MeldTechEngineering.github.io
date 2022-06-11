@@ -7,11 +7,8 @@ weight: 5
 
 ** Short Description here. **
 
-![Detailed Cost Estimation](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
-
-** Detailed Description here **
+## our Expertise
 
 1. Pressure Vessel Costing
 2. Piping & Piping Elements Costing

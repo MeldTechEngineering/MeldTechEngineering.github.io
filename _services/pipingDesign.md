@@ -5,13 +5,7 @@ featured: true
 weight: 3
 ---
 
-** Short Description here. **
-
-![Piping Designing](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Objectives 
-
-** Detailed Description here **
+## Our Expertise
 
 1. Cryogenic Piping Assembly
 2. Oil & Gas and Chemical Industry Piping

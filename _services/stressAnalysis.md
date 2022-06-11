@@ -7,7 +7,7 @@ weight: 4
 
 MeldTech Engineering with its strong engineering roots has adopted the latest innovations in design & engineering offering end to end engineering solution to customers across the globe. 
 
-![Stress & Flow Analysis](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Structural Assessment of Tank Roof, Tank Wall & Support Frame with respect to Agitator Loads](/images/Projects/pressureVessel.png)
 
 ## What we do
 
