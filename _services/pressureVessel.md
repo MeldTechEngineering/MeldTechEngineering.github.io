@@ -52,6 +52,8 @@ We provide complete data/calculations and drawings including:
 - Piping Support Details
 - Stress Analysis (Pressure Vessel and Piping)
 
+We also provide Detailed Cost Estimation of Pressure Vessel and Piping to predict the quantity, cost and price of the resources required by the scope of a project. We consider the cost of raw material, wastage factor, fabrication cost, logistics cost, execution cost, overhead cost, etc to estimate the cost of the product/project.
+
 ## Our Expertise
 
 1. Cryogenic Vessels
