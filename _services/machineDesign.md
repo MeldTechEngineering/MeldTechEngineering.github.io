@@ -10,8 +10,6 @@ Machine/Mechanical Design is creation of plans for the machine to perform the de
 
 ![Hydrostatic Pipe Testing Machine](/images/Projects/machineDesign.png)
 
-## What we do
-
 We put in our maximum efforts to develop a complete functionally efficient product considering the space/size requirements and constantly seek to satisfy the customer's desires with respect to adaptability to the environment. We develop products as per the needs of the client and provide all manufacturing, production & layout drawings. We design and deliver 3D Models, 2D Drawings, Scanning Models, Pipeline Routing , Static & Dynamic Load Analysis, Animation of the Product, Rendered Realistic Photo of the Product for Marketing, Product Planning Sheet as per Design, Motion Analysis, Mechanism Development, Automation as per Requirement, etc.
  
 For 3D Printing and Reverse Engineering, we consider the scanning data/measured dimensions and the required tolerance, allowance & surface finish to recreate the desired design/product.

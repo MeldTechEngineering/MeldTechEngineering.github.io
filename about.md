@@ -6,7 +6,8 @@ bodyClass: page-about
 ---
 
 Our key people are the professional engineers who have
-- served in relevant field with INOXCVA, LINDE, JACOBS, L&T                                      
+
+- served in relevant field                                       
 - experience of more than six years in various disciplines like Process Design, Piping Design, Mechanical/Equipment Design, Machine Design, Finite Element Analysis and Computational Fluid Dynamics.
 
 Team has capabilities and expertise to develop and design Cryogenic Storage Tanks, Vaporizers, Heat Exchangers, Reactors, Distillation Columns, Piping Networks/Systems, Skids, Machines and Machine Parts.

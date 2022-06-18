@@ -8,8 +8,6 @@ weight: 1
 ![Vapor Recovery Unit](/images/Projects/processDesign.png)
 ![Ethoxylation Reactor](/images/Projects/processDesign1.png)
 
-## What we do
-
 MeldTech Engineering with its in-depth technical knowledge in Process Designing & Technology offers reliable and innovative services & solutions globally for Chemical Process Industry, Cryogenic Storage Systems, Dyes & Pigments, Consumer Product Goods, Polymers, Oil & Gas, Power Plants and Pharmaceutical & Medical Industries. We have expertise in Process Engineering covering all aspects from concept to design to commissioning support.
 
 ## Our Expertise
