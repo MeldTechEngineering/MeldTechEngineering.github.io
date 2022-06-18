@@ -11,7 +11,7 @@ The successful completion of every project requires precise in-depth engineering
 |:--:|
 |Lox Cryogenic Storage Tank|
 
-![Shell & Tube Exchanger](/images/Projects/pressureVessel1.png)
+|![Shell & Tube Exchanger](/images/Projects/pressureVessel1.png)|
 |:--:|
 |Shell & Tube Exchanger|
 

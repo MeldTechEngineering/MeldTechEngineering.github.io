@@ -8,7 +8,9 @@ weight: 3
 Machine/Mechanical Design is creation of plans for the machine to perform the desired functions. Machine/Mechanical Design projects require precise and in-depth understanding of the engineering concepts. MeldTech Engineering with its scientific & technical knowledge and imagination has successfully developed machine/mechanical systems like Hydrostatic Pipe Testing Machine, Automatic Pipe Cutting Machine, Four Stage Helical Gearbox, Mining Conveyor, Hydraulic Welding Station, etc. to perform the specific relevant functions with maximum economy and efficiency.
 
 
-![Hydrostatic Pipe Testing Machine](/images/Projects/machineDesign.png)
+|![Hydrostatic Pipe Testing Machine](/images/Projects/machineDesign.png)|![Hydrostatic Pipe Testing Machine](/images/Projects/machineDesign.png)|
+|:--:|:--:|
+|Pipe Testing Machine|Cone Crusher|
 
 We put in our maximum efforts to develop a complete functionally efficient product considering the space/size requirements and constantly seek to satisfy the customer's desires with respect to adaptability to the environment. We develop products as per the needs of the client and provide all manufacturing, production & layout drawings. We design and deliver 3D Models, 2D Drawings, Scanning Models, Pipeline Routing , Static & Dynamic Load Analysis, Animation of the Product, Rendered Realistic Photo of the Product for Marketing, Product Planning Sheet as per Design, Motion Analysis, Mechanism Development, Automation as per Requirement, etc.
  
