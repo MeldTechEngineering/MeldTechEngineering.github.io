@@ -6,6 +6,7 @@ weight: 1
 ---
 
 ![Vapor Recovery Unit](/images/Projects/processDesign.png)
+![Ethoxylation Reactor](/images/Projects/processDesign1.png)
 
 ## What we do
 
