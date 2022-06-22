@@ -15,6 +15,10 @@ MeldTech Engineering with its strong engineering roots has adopted the latest in
 |:--:|
 |Numerical Simulation of 3D Turbulent Flow|
 
+|![HVAC Flow Path & Thermal Analysis](/images/Projects/stressFlow2.png)|
+|:--:|
+|HVAC Flow Path & Thermal Analysis|
+
 
 From Analysing Static & Dynamic Loads on Transportable Pressure Vessels and Piping Assemblies, Agitator Loads on Reactors/Storage Tanks, Wind Seismic & Earthquake generated Stresses (according to ASCE, IBC, etc.), Evaluating Thermal Stresses for System Working under Elevated Temperature, Mass Optimization of Equipments & Structures to Fluid Dynamics Simulation for Laminar & Turbulent Flow, Analysing the Fluid Flow Path & Interaction of the Fluid Chemicals, Evaluating Cavitation in Turbines & Pitting, Erosion, Naphthenic Acid Corrosion in Refineries MeldTech Engineering has proven its expertise time and again.
 

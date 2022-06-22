@@ -15,14 +15,21 @@ MeldTech Engineering with its in-depth technical knowledge in Process Designing 
 |:--:|
 |Ethoxylation Reactor|
 
+We provide complete details/data and drawings/diagrams including:
+
+- Process Datasheet
+- Piping & Instrumentation Diagram
+- Process Flow Diagram
+- Thermal Calculations/Design
+- PBU Design Calculations
+- Vaporizer Design Calculations
+- Material & Energy Balance
+- Piping Service Index
+- Utility Distribution Diagram
+
 ## Our Expertise
 
-1. Process Datasheet
-2. Piping & Instrumentation Diagram
-3. Process Flow Diagram
-4. Thermal Calculations/Design
-5. PBU Design Calculations
-6. Vaporizer Design Calculations
-7. Material & Energy Balance
-8. Piping Service Index
-9. Utility Distribution Diagram
+1. Cryogenic Piping Assembly
+2. Oil & Gas and Chemical Industry Piping
+3. Pharmaceutical and Medical Industry Piping
+4. Piping Assembly on Skid
